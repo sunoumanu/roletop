@@ -1,0 +1,14 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><clipPath id="c"><circle cx="64" cy="64" r="62"/></clipPath><defs><radialGradient id="g" cx=".35" cy=".30" r=".9"><stop offset="0" stop-color="#c9983a"/><stop offset="1" stop-color="#5a4718"/></radialGradient></defs><circle cx="64" cy="64" r="62" fill="url(#g)" stroke="#0a0a0a" stroke-width="2"/><g clip-path="url(#c)" fill="#f0d68a" stroke="#0a0a0a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<!-- helmet -->
+<path d="M36 28c0-8 12-14 28-14s28 6 28 14v10H36z" fill="#8a8a9a"/>
+<rect x="34" y="38" width="60" height="8" fill="#6a6a7a"/>
+<!-- face plate slit -->
+<rect x="48" y="42" width="32" height="4" fill="#0a0a0a"/>
+<!-- cape/cloth under helmet -->
+<path d="M36 46c0 10 12 18 28 18s28-8 28-18" fill="#c9983a"/>
+<!-- shoulders -->
+<path d="M28 110c0-18 16-28 36-28s36 10 36 28z" fill="#a68230"/>
+<!-- halberd -->
+<rect x="102" y="6" width="4" height="110" fill="#6a4a1a"/>
+<path d="M98 18l14-8v12l-14 6z" fill="#d8d8e0"/>
+</g></svg>

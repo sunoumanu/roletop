@@ -1,0 +1,23 @@
+{
+  "name": "vtt-phase6",
+  "private": true,
+  "version": "0.6.0",
+  "type": "module",
+  "description": "Virtual tabletop — phase 6. Vite + TypeScript rewrite of the phase-5 single-file prototype, addressing review items 2–9.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --port 5173",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "zod": "^3.23.8",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2",
+    "vitest": "^2.0.5"
+  }
+}

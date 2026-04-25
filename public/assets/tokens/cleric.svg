@@ -1,0 +1,12 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><clipPath id="c"><circle cx="64" cy="64" r="62"/></clipPath><defs><radialGradient id="g" cx=".35" cy=".30" r=".9"><stop offset="0" stop-color="#5a8a9f"/><stop offset="1" stop-color="#2a4a5a"/></radialGradient></defs><circle cx="64" cy="64" r="62" fill="url(#g)" stroke="#0a0a0a" stroke-width="2"/><g clip-path="url(#c)" fill="#a5cadb" stroke="#0a0a0a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M44 22c-2 6-2 12 0 18h40c2-6 2-12 0-18z" fill="#d8b250"/>
+<ellipse cx="64" cy="52" rx="16" ry="14" fill="#f0d0a8"/>
+<circle cx="58" cy="50" r="2" fill="#0a0a0a"/>
+<circle cx="70" cy="50" r="2" fill="#0a0a0a"/>
+<path d="M54 58c2 3 6 4 10 4s8-1 10-4" fill="none" stroke="#0a0a0a" stroke-width="1.5"/>
+<!-- robes -->
+<path d="M28 110c0-18 16-28 36-28s36 10 36 28z" fill="#e6e2d5"/>
+<!-- holy symbol -->
+<rect x="60" y="88" width="8" height="22" fill="#d8b250"/>
+<rect x="52" y="94" width="24" height="8" fill="#d8b250"/>
+</g></svg>

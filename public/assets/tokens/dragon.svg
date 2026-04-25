@@ -1,0 +1,16 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><clipPath id="c"><circle cx="64" cy="64" r="62"/></clipPath><defs><radialGradient id="g" cx=".35" cy=".30" r=".9"><stop offset="0" stop-color="#8b2020"/><stop offset="1" stop-color="#3e0d0d"/></radialGradient></defs><circle cx="64" cy="64" r="62" fill="url(#g)" stroke="#0a0a0a" stroke-width="2"/><g clip-path="url(#c)" fill="#d07070" stroke="#0a0a0a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<!-- snout -->
+<path d="M6 60l30-10 20-6c20-4 40 4 52 18 2 4 0 8-4 10l-20 6-30 8-24 4c-14 2-24-16-24-30z" fill="#8a2020"/>
+<!-- horns -->
+<path d="M96 42l14-18-4 22z" fill="#4a1010"/>
+<path d="M78 34l8-20 2 22z" fill="#4a1010"/>
+<!-- eye -->
+<circle cx="78" cy="54" r="6" fill="#ffe89a"/>
+<path d="M78 48v12" stroke="#0a0a0a" stroke-width="3"/>
+<!-- teeth -->
+<path d="M24 74l4 6 4-6 4 6 4-6 4 6 4-6" fill="#f0ead8" stroke="#f0ead8"/>
+<!-- nostril -->
+<circle cx="18" cy="62" r="2" fill="#0a0a0a"/>
+<!-- scale pattern -->
+<path d="M48 50c4-2 8-2 12 0m-10 10c4-2 8-2 12 0" fill="none" stroke="#5a1010" stroke-width="1.5"/>
+</g></svg>

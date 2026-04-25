@@ -1,0 +1,18 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><clipPath id="c"><circle cx="64" cy="64" r="62"/></clipPath><defs><radialGradient id="g" cx=".35" cy=".30" r=".9"><stop offset="0" stop-color="#8b2020"/><stop offset="1" stop-color="#3e0d0d"/></radialGradient></defs><circle cx="64" cy="64" r="62" fill="url(#g)" stroke="#0a0a0a" stroke-width="2"/><g clip-path="url(#c)" fill="#d07070" stroke="#0a0a0a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<!-- head -->
+<path d="M32 56c0-20 14-34 32-34s32 14 32 34c0 14-8 26-20 30H52c-12-4-20-16-20-30z" fill="#4a4a52"/>
+<!-- ears -->
+<path d="M30 36l-6-18 18 8z" fill="#3a3a42"/>
+<path d="M98 36l6-18-18 8z" fill="#3a3a42"/>
+<!-- snout -->
+<path d="M46 70c2-8 10-12 18-12s16 4 18 12l-6 10H52z" fill="#2a2a32"/>
+<!-- eyes -->
+<path d="M48 50l10 2-2 4z" fill="#ffe89a"/>
+<path d="M80 50l-10 2 2 4z" fill="#ffe89a"/>
+<circle cx="54" cy="52" r="2" fill="#0a0a0a"/>
+<circle cx="74" cy="52" r="2" fill="#0a0a0a"/>
+<!-- teeth -->
+<path d="M52 72l4 8 4-6 4 6 4-6 4 8" fill="#f0ead8"/>
+<!-- nose -->
+<circle cx="64" cy="70" r="3" fill="#0a0a0a"/>
+</g></svg>

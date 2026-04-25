@@ -1,0 +1,7 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#e8e2d0">
+  <circle cx="22" cy="22" r="8"/>
+  <path d="M26 34h28v6H26z"/>
+  <path d="M50 34l10 6H50z"/>
+  <text x="40" y="22" font-family="serif" font-weight="900" font-size="18">Z</text>
+  <text x="48" y="12" font-family="serif" font-weight="900" font-size="12">z</text>
+</svg>

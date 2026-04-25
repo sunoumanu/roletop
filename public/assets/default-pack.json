@@ -1,0 +1,429 @@
+{
+  "name": "RoleTop Starter Pack",
+  "version": "1.0.0",
+  "attribution": "Original artwork shipped with RoleTop VTT, Phase 6 \u2014 MIT-licensed with the project. No third-party attribution required.",
+  "assets": [
+    {
+      "id": "cond-blinded",
+      "name": "Blinded icon",
+      "url": "conditions/blinded.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "blinded",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-charmed",
+      "name": "Charmed icon",
+      "url": "conditions/charmed.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "charmed",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-deafened",
+      "name": "Deafened icon",
+      "url": "conditions/deafened.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "deafened",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-frightened",
+      "name": "Frightened icon",
+      "url": "conditions/frightened.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "frightened",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-grappled",
+      "name": "Grappled icon",
+      "url": "conditions/grappled.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "grappled",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-incapacitated",
+      "name": "Incapacitated icon",
+      "url": "conditions/incapacitated.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "incapacitated",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-invisible",
+      "name": "Invisible icon",
+      "url": "conditions/invisible.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "invisible",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-paralyzed",
+      "name": "Paralyzed icon",
+      "url": "conditions/paralyzed.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "paralyzed",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-petrified",
+      "name": "Petrified icon",
+      "url": "conditions/petrified.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "petrified",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-poisoned",
+      "name": "Poisoned icon",
+      "url": "conditions/poisoned.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "poisoned",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-prone",
+      "name": "Prone icon",
+      "url": "conditions/prone.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "prone",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-restrained",
+      "name": "Restrained icon",
+      "url": "conditions/restrained.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "restrained",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-stunned",
+      "name": "Stunned icon",
+      "url": "conditions/stunned.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "stunned",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-unconscious",
+      "name": "Unconscious icon",
+      "url": "conditions/unconscious.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "unconscious",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-bless",
+      "name": "Bless icon",
+      "url": "conditions/bless.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "bless",
+        "icon"
+      ]
+    },
+    {
+      "id": "cond-concentration",
+      "name": "Concentrating icon",
+      "url": "conditions/concentration.svg",
+      "kind": "other",
+      "tags": [
+        "condition",
+        "concentration",
+        "icon"
+      ]
+    },
+    {
+      "id": "tok-fighter",
+      "name": "Fighter",
+      "url": "tokens/fighter.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "human",
+        "melee",
+        "sword"
+      ]
+    },
+    {
+      "id": "tok-wizard",
+      "name": "Wizard",
+      "url": "tokens/wizard.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "caster",
+        "human"
+      ]
+    },
+    {
+      "id": "tok-rogue",
+      "name": "Rogue",
+      "url": "tokens/rogue.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "stealth",
+        "human"
+      ]
+    },
+    {
+      "id": "tok-cleric",
+      "name": "Cleric",
+      "url": "tokens/cleric.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "holy",
+        "caster"
+      ]
+    },
+    {
+      "id": "tok-ranger",
+      "name": "Ranger",
+      "url": "tokens/ranger.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "bow",
+        "forest"
+      ]
+    },
+    {
+      "id": "tok-bard",
+      "name": "Bard",
+      "url": "tokens/bard.svg",
+      "kind": "token",
+      "tags": [
+        "pc",
+        "support",
+        "human"
+      ]
+    },
+    {
+      "id": "tok-goblin",
+      "name": "Goblin",
+      "url": "tokens/goblin.svg",
+      "kind": "token",
+      "tags": [
+        "enemy",
+        "monster",
+        "small"
+      ]
+    },
+    {
+      "id": "tok-orc",
+      "name": "Orc",
+      "url": "tokens/orc.svg",
+      "kind": "token",
+      "tags": [
+        "enemy",
+        "monster",
+        "medium"
+      ]
+    },
+    {
+      "id": "tok-skeleton",
+      "name": "Skeleton",
+      "url": "tokens/skeleton.svg",
+      "kind": "token",
+      "tags": [
+        "enemy",
+        "undead",
+        "medium"
+      ]
+    },
+    {
+      "id": "tok-dragon",
+      "name": "Dragon",
+      "url": "tokens/dragon.svg",
+      "kind": "token",
+      "tags": [
+        "enemy",
+        "monster",
+        "huge",
+        "boss"
+      ]
+    },
+    {
+      "id": "tok-wolf",
+      "name": "Wolf",
+      "url": "tokens/wolf.svg",
+      "kind": "token",
+      "tags": [
+        "enemy",
+        "beast",
+        "medium"
+      ]
+    },
+    {
+      "id": "tok-guard",
+      "name": "Guard",
+      "url": "tokens/guard.svg",
+      "kind": "token",
+      "tags": [
+        "npc",
+        "human"
+      ]
+    },
+    {
+      "id": "tile-table-wood",
+      "name": "Wooden Table",
+      "url": "tiles/table-wood.svg",
+      "kind": "tile",
+      "tags": [
+        "furniture",
+        "tavern"
+      ]
+    },
+    {
+      "id": "tile-chest",
+      "name": "Treasure Chest",
+      "url": "tiles/chest.svg",
+      "kind": "tile",
+      "tags": [
+        "container",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "tile-torch-wall",
+      "name": "Wall Torch",
+      "url": "tiles/torch-wall.svg",
+      "kind": "tile",
+      "tags": [
+        "light",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "tile-barrel",
+      "name": "Barrel",
+      "url": "tiles/barrel.svg",
+      "kind": "tile",
+      "tags": [
+        "container",
+        "tavern"
+      ]
+    },
+    {
+      "id": "tile-crate",
+      "name": "Crate",
+      "url": "tiles/crate.svg",
+      "kind": "tile",
+      "tags": [
+        "container",
+        "warehouse"
+      ]
+    },
+    {
+      "id": "tile-door-wood",
+      "name": "Wooden Door",
+      "url": "tiles/door-wood.svg",
+      "kind": "tile",
+      "tags": [
+        "door",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "tile-bookshelf",
+      "name": "Bookshelf",
+      "url": "tiles/bookshelf.svg",
+      "kind": "tile",
+      "tags": [
+        "furniture",
+        "library"
+      ]
+    },
+    {
+      "id": "tile-campfire",
+      "name": "Campfire",
+      "url": "tiles/campfire.svg",
+      "kind": "tile",
+      "tags": [
+        "light",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "map-dungeon-stone",
+      "name": "Dungeon Stone Room",
+      "url": "maps/dungeon-stone.png",
+      "kind": "map",
+      "tags": [
+        "dungeon",
+        "stone",
+        "interior"
+      ]
+    },
+    {
+      "id": "map-tavern-hall",
+      "name": "Tavern Hall",
+      "url": "maps/tavern-hall.png",
+      "kind": "map",
+      "tags": [
+        "tavern",
+        "wood",
+        "interior"
+      ]
+    },
+    {
+      "id": "map-forest-clearing",
+      "name": "Forest Clearing",
+      "url": "maps/forest-clearing.png",
+      "kind": "map",
+      "tags": [
+        "forest",
+        "outdoor",
+        "natural"
+      ]
+    }
+  ]
+}
